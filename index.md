@@ -53,6 +53,8 @@ What about my languages? [Come Here](#Ranked-programming-languages).
 - [x] Learn Advanced DSA
 - [ ] Fully understand React and Hooks
 
+> there can be no coding bugs if there is no code to begin with
+
 [A little more about me](README.md)
 
 [Secret](images/images.jpeg)
